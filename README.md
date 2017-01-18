@@ -7,8 +7,12 @@ Screenshots of the ported version:
 
 ![](screenshot/current-level.png)
 
+The game running on the real NEMIGA hardware:
+
 ![](screenshot/real-v4-level.jpg)
 
 ##### See Also
 
  - [The same game ported to UKNC](https://github.com/nzeemin/uknc-loderunner)
+ - [NEMIGABTL emulator](https://github.com/nzeemin/nemigabtl)
+ - [Lode Runner game porting discussion at zx-pk.ru](http://zx-pk.ru/threads/24886-portirovanie-lode-runner-bk-gt-uknts.html)
