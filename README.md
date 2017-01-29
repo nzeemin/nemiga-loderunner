@@ -7,6 +7,8 @@ Screenshots of the ported version:
 
 ![](screenshot/current-level.png)
 
+![](screenshot/nemiga_loderunner_demo.gif)
+
 The game running on the real NEMIGA hardware:
 
 ![](screenshot/real-v4-level.jpg)
